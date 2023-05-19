@@ -20,4 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Desktop:  
+![image](https://github.com/aveandrian/time-tracking-dashboard-react/assets/13519212/22187ed9-02bf-40c9-89f1-67c2a07e5e5b)   
+
+#### Mobile:  
+![image](https://github.com/aveandrian/time-tracking-dashboard-react/assets/13519212/fe7efffb-e6c9-4085-bb30-d856a2ae14d7)   
